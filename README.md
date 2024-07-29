@@ -2,7 +2,7 @@
 
 ## [🇧🇷] Todo App
 
-Este projeto foi desenvolvido para aprimorar minhas habilidades em PHP.
+Este projeto foi desenvolvido para aprimorar minhas habilidades em PHP e auxiliar iniciantes com projetos base para treinarem e estudarem como foram feitos.
 
 O sistema é um aplicativo de lista de afazeres (To-do) que permite adicionar novas tarefas, marcar como concluídas e editar os títulos dos itens.
 
